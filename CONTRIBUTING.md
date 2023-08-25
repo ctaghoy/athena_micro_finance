@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## Purpose
 
 The purpose of this repository is to create an open source project in Git and make it available to the community.
