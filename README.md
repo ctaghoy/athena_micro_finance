@@ -4,4 +4,4 @@ Athena Micro Finance is a microfinance company that provides financial services 
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the **[LICENSE]**(https://github.com/jslicense/Apache-2.0/blob/main/Apache-2.0.md)file for details.
+This project is licensed under the Apache 2.0 License - see the **[LICENSE]**(https://github.com/jslicense/Apache-2.0/blob/main/Apache-2.0.md) file for details.
